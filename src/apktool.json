@@ -1,0 +1,31 @@
+{
+  "apkFileName": "MotoDialerOverlay.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "compressionType": false,
+  "sparseResources": true,
+  "version": "2.4.0-240422",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [
+      30
+    ],
+    "tag": null
+  },
+  "unknownFiles": {},
+  "apkFilePath": "/storage/emulated/0/MotoDialerOverlay/MotoDialerOverlay.apk",
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "30",
+    "targetSdkVersion": "30"
+  }
+}
