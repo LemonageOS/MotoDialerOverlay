@@ -1,0 +1,21 @@
+version: 2.8.2-TERMUX-SNAPSHOT
+apkFileName: MotoDialerOverlay.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 30
+  tag: null
+sdkInfo:
+  minSdkVersion: 30
+  targetSdkVersion: 30
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.0
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
