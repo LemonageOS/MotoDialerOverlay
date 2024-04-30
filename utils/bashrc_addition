@@ -1,0 +1,4 @@
+
+if [ -f ~/.lemonage_aliases ]; then
+. ~/.lemonage_aliases
+fi
