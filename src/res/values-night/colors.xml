@@ -31,4 +31,7 @@
     <!-- unchecked switch thumb color -->
     <color name="prc_turn_off_thumb_color">@*android:color/system_neutral2_300</color>
 
+    <!-- MD3 title bar background color -->
+    <color name="prc_actionMode_color">@*android:color/system_neutral2_800</color>
+
 </resources>
