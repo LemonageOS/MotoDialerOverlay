@@ -40,4 +40,10 @@
     <!-- voicemail master switch text color -->
     <color name="prc_voice_state_text_color">@*android:color/system_neutral1_50</color>
 
+    <!-- contacts alphabetic index highlight background color -->
+    <color name="highlighter_text_color">@*android:color/system_accent1_200</color>
+
+    <!-- contacts alphabetic index highlight foreground color -->
+    <color name="siderbarview_texthint_color">@*android:color/system_neutral1_900</color>
+
 </resources>
