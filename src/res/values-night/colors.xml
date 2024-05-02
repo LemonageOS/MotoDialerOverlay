@@ -34,4 +34,10 @@
     <!-- MD3 title bar background color -->
     <color name="prc_actionMode_color">@*android:color/system_neutral2_800</color>
 
+    <!-- voicemail master switch background color -->
+    <color name="prc_voice_back_color">@*android:color/system_accent2_800</color>
+
+    <!-- voicemail master switch text color -->
+    <color name="prc_voice_state_text_color">@*android:color/system_neutral1_50</color>
+
 </resources>
