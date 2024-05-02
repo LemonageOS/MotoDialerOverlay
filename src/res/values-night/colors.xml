@@ -10,4 +10,7 @@
     <!-- bottom navigation bar & dial pad background color -->
     <color name="alert_dialog_bg">@*android:color/system_neutral2_800</color>
 
+    <!-- title bar background color -->
+    <color name="prc_default_view_bg">@*android:color/system_neutral1_900</color>
+
 </resources>
