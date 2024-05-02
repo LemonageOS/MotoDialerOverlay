@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="example">#123456</color>
+
+    <!-- DARK - default background color -->
+    <color name="dialer_dark_background_color">@*android:color/system_neutral2_900</color>
+
 </resources>
