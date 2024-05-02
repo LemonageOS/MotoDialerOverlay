@@ -7,4 +7,7 @@
 	<!-- FAB icon color -->
 	<color name="on_primary_container">@*android:color/system_neutral2_900</color>
 
+	<!-- bottom navigation bar & dial pad background color -->
+	<color name="alert_dialog_bg">@*android:color/system_neutral2_800</color>
+
 </resources>
