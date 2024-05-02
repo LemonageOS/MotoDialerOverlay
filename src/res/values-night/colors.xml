@@ -13,4 +13,7 @@
 	<!-- title bar background color -->
 	<color name="prc_default_view_bg">@*android:color/system_neutral2_900</color>
 
+	<!-- contacts search bar background color -->
+	<color name="prc_search_view_bg">@*android:color/system_neutral2_800</color>
+
 </resources>
