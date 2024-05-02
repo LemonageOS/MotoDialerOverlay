@@ -16,4 +16,7 @@
     <!-- contacts search bar background color -->
     <color name="prc_search_view_bg">@*android:color/system_neutral2_800</color>
 
+    <!-- bottom navigation bar pill background color -->
+    <color name="prc_navagation_icon_shape_bg_color">@*android:color/system_accent2_600</color>
+
 </resources>
