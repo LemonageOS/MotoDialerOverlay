@@ -45,8 +45,23 @@
 
     <!-- contacts alphabetic index highlight background color  -->
     <color name="siderbarview_texthint_color">@*android:color/system_neutral2_900</color>
-    
+
     <!-- placeholder icon color  -->
     <color name="prc_block_color">@*android:color/system_neutral2_300</color>
+
+    <!-- checked radio button color-->
+    <color name="prc_avatar_select_color">@*android:color/system_accent1_200</color>
+
+    <!-- unchecked radio button color-->
+    <color name="prc_check_box_not_select_color">@*android:color/system_neutral2_400</color>
+
+    <!-- dial button background color -->
+    <color name="prc_positive_green">@*android:color/system_accent1_200</color>
+
+    <!-- dial button SIM label color -->
+    <color name="prc_sim_lable_icon_color">@*android:color/system_neutral2_900</color>    
+
+    <!-- dial pad digits text color -->
+    <color name="prc_dialpad_text_color_primary">@*android:color/system_neutral2_50</color>
 
 </resources>
