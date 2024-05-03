@@ -45,5 +45,8 @@
 
     <!-- contacts alphabetic index highlight background color  -->
     <color name="siderbarview_texthint_color">@*android:color/system_neutral2_900</color>
+    
+    <!-- placeholder icon color  -->
+    <color name="prc_block_color">@*android:color/system_neutral2_300</color>
 
 </resources>

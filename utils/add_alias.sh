@@ -20,22 +20,11 @@ if [[ ! $(grep "lemonage_aliases" $ETC/bash.bashrc) ]]; then
 	cat $REPO/utils/bashrc_addition >> $BASHRC
 fi
 
-if [ -f $ALIASFILE ]; then
-    printf "${BOLD}${YELLOW}.lemonage_aliases already exists in your home directory. This script will recreate said file.${END}\n"
-    echo $MSG_CONTINUE
-
-    read ch
-    if [ $ch != "y" ]; then
-        echo -e "\n$MSG_ABORT"
-        exit 0
-    fi
-fi
-
-printf "\n${MSG_SET}${BOLD} signing the overlay${END}\n${MSG_DEFAULT} (so)\n"
+printf "\n${MSG_SET}${BOLD} all_in_one.sh ${END}\n${MSG_DEFAULT} (so)\n"
 read a
 if [ -z $a ]; then
     a="so"
 fi
-echo "alias $a='bash $REPO/utils/sign.sh'" > $ALIASFILE
+echo "alias $a='bash $REPO/utils/all_in_one.sh'" > $ALIASFILE
 
 printf "\n${MSG_RELOAD}${BOLD}\nsource ~/../usr/etc/bash.bashrc${END}\n"
