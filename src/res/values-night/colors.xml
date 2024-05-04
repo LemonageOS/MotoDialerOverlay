@@ -49,4 +49,10 @@
     <!-- placeholder icon color  -->
     <color name="prc_block_color">@*android:color/system_neutral2_300</color>
 
+    <!-- checked radio button color -->
+    <color name="prc_avatar_select_color">@*android:color/system_accent1_200</color>
+
+    <!-- unchecked radio button color -->
+    <color name="prc_check_box_not_select_color">@*android:color/system_neutral2_400</color>
+
 </resources>
