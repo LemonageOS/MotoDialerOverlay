@@ -61,7 +61,7 @@
     <!-- dial button SIM label color -->
     <color name="prc_sim_lable_icon_color">@*android:color/system_neutral2_900</color>    
 
-    <!-- dial pad digits text color -->
+    <!-- dial pad numbers text color -->
     <color name="prc_dialpad_text_color_primary">@*android:color/system_neutral2_50</color>
 
 </resources>
