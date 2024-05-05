@@ -1,3 +1,4 @@
 keystore
 *.apk
 *.idsig
+*moto_colors.xml
