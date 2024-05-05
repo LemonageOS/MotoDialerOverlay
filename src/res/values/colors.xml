@@ -10,4 +10,7 @@
     <!-- DARK - bottom navigation bar unselected item label & icon color -->
     <color name="lake_n2_300">@*android:color/system_neutral2_300</color>
 
+    <!-- DARK - primary color -->
+    <color name="dialer_dark_theme_color">@*android:color/system_neutral1_900</color>
+
 </resources>
