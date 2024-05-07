@@ -67,4 +67,7 @@
      <!-- bottom navigation bar selected item label & icon color-->
     <color name="prc_navagation_icon_select_color">@*android:color/system_accent2_50</color>
 
+    <!-- placeholder text color -->
+    <color name="contacts_add_text_color">@*android:color/system_neutral1_200</color>
+
 </resources>
