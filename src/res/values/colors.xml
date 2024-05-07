@@ -13,4 +13,7 @@
     <!-- DARK - primary color -->
     <color name="dialer_dark_theme_color">@*android:color/system_neutral1_900</color>
 
+    <!-- DARK - accent color -->
+    <color name="lake_a1_100">@*android:color/system_accent1_200</color>
+
 </resources>
