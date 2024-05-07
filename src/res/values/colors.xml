@@ -22,4 +22,7 @@
     <!-- DARK - alphabetical index text color -->
     <color name="siderbarview_text_color">@*android:color/system_neutral2_400</color>
 
+    <!-- DARK - ripple color -->
+    <color name="ripple_material_dark">#19FFFFFF</color>
+
 </resources>
