@@ -76,4 +76,7 @@
     <!-- back arrow color -->
     <color name="prc_text_secondary_color">@*android:color/system_neutral2_50</color>
 
+    <!-- primary text color -->
+    <color name="prc_text_primary_color">@*android:color/system_neutral1_50</color>
+
 </resources>
