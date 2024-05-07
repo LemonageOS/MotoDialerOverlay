@@ -79,4 +79,7 @@
     <!-- primary text color -->
     <color name="prc_text_primary_color">@*android:color/system_neutral1_50</color>
 
+    <!-- settings category text color -->
+    <color name="prc_Digits_text_color">@*android:color/system_neutral1_100</color>
+
 </resources>
