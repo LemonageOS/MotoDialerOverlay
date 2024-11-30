@@ -27,5 +27,11 @@
 
     <!-- default background color -->
     <color name="dialer_background_color">#FFFFFF</color>
+
+    <!-- FAB background color -->
+    <color name="primary_container">@*android:color/system_accent1_600</color>
+
+    <!-- FAB icon color -->
+    <color name="on_primary_container">#FFFFFF</color>
     
-    </resources>
+</resources>
