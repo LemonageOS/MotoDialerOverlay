@@ -34,4 +34,7 @@
     <!-- FAB icon color -->
     <color name="on_primary_container">#FFFFFF</color>
     
-</resources>
+    <!-- bottom navigation bar & dial pad background color -->
+    <color name="alert_dialog_bg">#FFFFFF</color>
+     	
+    </resources>
