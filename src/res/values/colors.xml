@@ -25,4 +25,7 @@
     <!-- DARK - ripple color -->
     <color name="ripple_material_dark">#19FFFFFF</color>
 
-</resources>
+    <!-- default background color -->
+    <color name="dialer_background_color">@*android:color/system_neutral1_100</color>
+    
+    </resources>
