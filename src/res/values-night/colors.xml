@@ -109,4 +109,7 @@
     <!-- delete button disabled color-->
     <color name="prc_delete_button_unable_color">@*android:color/system_neutral2_500</color>
 
+    <!-- dial pad divider color -->
+    <color name="drawer_divider_color">@*android:color/system_neutral2_700</color>
+
 </resources>
