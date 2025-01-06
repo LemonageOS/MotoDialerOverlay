@@ -103,4 +103,10 @@
     <!-- history message button background color -->
     <color name="bubble_highlight_item">@*android:color/system_accent1_200</color>
     
+    <!-- delete button enabled color-->
+    <color name="prc_delete_button_able_color">@*android:color/system_neutral2_200</color>
+    
+    <!-- delete button disabled color-->
+    <color name="prc_delete_button_unable_color">@*android:color/system_neutral2_500</color>
+
 </resources>
