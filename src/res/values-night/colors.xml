@@ -93,5 +93,11 @@
 
     <!-- call log call button color -->
     <color name="prc_cli_call_log_call_btn_color">@*android:color/system_neutral2_200</color>
+
+    <!-- history call button text color -->
+    <color name="prc_button_text_history_call_color">@*android:color/system_neutral1_900</color>
+
+    <!-- history message button text color -->
+    <color name="prc_button_text_history_msg_color">@*android:color/system_neutral1_900</color>
     
 </resources>
