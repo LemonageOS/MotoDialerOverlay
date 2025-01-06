@@ -90,5 +90,8 @@
 
     <!-- call date text color -->
     <color name="prc_header_text_color">@*android:color/system_neutral2_200</color>
+
+    <!-- call log call button color -->
+    <color name="prc_cli_call_log_call_btn_color">@*android:color/system_neutral2_200</color>
     
 </resources>
