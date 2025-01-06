@@ -88,4 +88,7 @@
     <!-- menu text color -->
     <color name="prc_popupmenu_text_color">@*android:color/system_neutral1_50</color>
 
+    <!-- call date text color -->
+    <color name="prc_header_text_color">@*android:color/system_neutral2_200</color>
+    
 </resources>
