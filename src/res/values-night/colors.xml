@@ -82,4 +82,7 @@
     <!-- settings category text color -->
     <color name="prc_Digits_text_color">@*android:color/system_neutral1_100</color>
 
+    <!-- highlighted call background color -->
+    <color name="prc_card_item_color">@*android:color/system_neutral2_800</color>
+    
 </resources>
