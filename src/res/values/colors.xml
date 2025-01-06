@@ -28,4 +28,7 @@
     <!-- LIGHT - default background color -->
     <color name="dialer_background_color">#FFFFFF</color>
 
+    <!-- LIGHT - bottom navigation bar & dial pad background color -->
+    <color name="alert_dialog_bg">@*android:color/system_neutral2_50</color>
+
 </resources>
