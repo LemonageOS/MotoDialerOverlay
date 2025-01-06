@@ -25,4 +25,7 @@
     <!-- DARK - ripple color -->
     <color name="ripple_material_dark">#19FFFFFF</color>
 
+    <!-- LIGHT - default background color -->
+    <color name="dialer_background_color">#FFFFFF</color>
+
 </resources>
