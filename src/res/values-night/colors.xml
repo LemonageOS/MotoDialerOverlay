@@ -85,4 +85,7 @@
     <!-- highlighted call background color -->
     <color name="prc_card_item_color">@*android:color/system_neutral2_800</color>
     
+    <!-- menu text color -->
+    <color name="prc_popupmenu_text_color">@*android:color/system_neutral1_50</color>
+
 </resources>
