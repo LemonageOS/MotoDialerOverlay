@@ -99,5 +99,8 @@
 
     <!-- history message button text color -->
     <color name="prc_button_text_history_msg_color">@*android:color/system_neutral1_900</color>
+
+    <!-- history message button background color -->
+    <color name="bubble_highlight_item">@*android:color/system_accent1_200</color>
     
 </resources>
