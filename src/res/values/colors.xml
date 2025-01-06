@@ -46,4 +46,16 @@
     <!-- LIGHT - bottom navigation bar pill background color -->
     <color name="prc_navagation_icon_shape_bg_color">@*android:color/system_accent2_200</color>
 
+    <!-- LIGHT - checked switch track color -->
+    <color name="prc_turn_on_track_color">@*android:color/system_accent1_600</color>
+
+    <!-- LIGHT - unchecked switch track color -->
+    <color name="prc_turn_off_track_color">@*android:color/system_neutral2_200</color>  
+
+    <!-- LIGHT - checked switch thumb color -->
+    <color name="prc_turn_on_thumb_color">#FFFFFF</color>    
+
+    <!-- LIGHT - unchecked switch thumb color -->
+    <color name="prc_turn_off_thumb_color">#FFFFFF</color>
+
 </resources>
